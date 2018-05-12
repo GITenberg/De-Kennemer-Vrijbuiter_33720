@@ -1,0 +1,37 @@
+_repo: De-Kennemer-Vrijbuiter_33720
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Braakensiek, Joh. (Johan Coenraad)
+    alias: Braakensiek, Johan Coenraad
+    birthdate: &id001 1858
+    deathdate: 1940
+    gutenberg_agent_id: '6460'
+    url: http://www.gutenberg.org/2009/agents/6460
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Braakensiek
+covers:
+- cover_type: archival
+  image_path: 33720-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kieviet, Cornelis Johannes
+    alias: Kieviet, C. Joh.
+    birthdate: *id001
+    deathdate: 1931
+    gutenberg_agent_id: '2188'
+    url: http://www.gutenberg.org/2009/agents/2188
+    wikipedia: http://nl.wikipedia.org/wiki/Cornelis_Johannes_Kieviet
+description: ''
+gutenberg_issued: '2010-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33720'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Juvenile fiction'
+- !lcc 'PZ'
+title: De Kennemer Vrijbuiter
+url: http://www.gutenberg.org/ebooks/33720
